@@ -1,4 +1,4 @@
-<h1 align="center">MBMS Middleware/h1>
+<h1 align="center">MBMS Middleware</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Under_Development-yellow" alt="Under Development">
   <img src="https://img.shields.io/github/v/tag/5G-MAG/rt-mbms-mw?label=version" alt="Version">
